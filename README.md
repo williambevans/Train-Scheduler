@@ -11,9 +11,11 @@ User input is held in Fire Base and maintains on the webpage as well as updates 
 
 ## Getting Started
 
-
+```
 Train Scheduler using JavaScript, Jquery, Ajax, Fire Base, Moment JS, CSS and HTML
+```
 
 ### Prerequisites
-
+```
 What things you need to install the software and how to install them
+```
