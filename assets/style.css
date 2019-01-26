@@ -1,0 +1,46 @@
+body {
+    background-image: url("train.png");
+    color: white;
+}
+
+.table {
+    width: 60%;
+    top: 5%;
+    position: absolute;
+    left: 25%;
+    box-shadow:20px 20px 50px grey;
+}
+
+.form {
+    margin-bottom: 10%;
+
+    width: 30%;
+    position: absolute;
+    top: 5%;
+    left: 0;
+}
+
+td {
+    text-align: center;
+}
+
+th {
+    text-align: center;
+}
+
+#train-table {
+    background: lightslategray;
+
+}
+
+.form-group {
+    background: lightslategray;
+    padding-bottom: 30px;
+    border-radius: 25px;
+    padding-top: 5px;
+    width:200px;
+    height:100px;
+    box-shadow:20px 20px 50px grey;
+    margin-bottom: 10%;
+}
+
