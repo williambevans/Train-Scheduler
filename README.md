@@ -9,8 +9,8 @@ User input is held in Fire Base and maintains on the webpage as well as updates 
 ```
 
 
-## Languages and Libraries 
+## Languages, Libraries, Frameworks Used
 
 ```
-Train Scheduler using JavaScript, Jquery, Ajax, Fire Base, Moment JS, CSS and HTML
+JavaScript, Jquery, Ajax, Fire Base, Moment JS, CSS and HTML
 ```
